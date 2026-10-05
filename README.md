@@ -23,8 +23,8 @@ Understand bagging vs. boosting ensemble models, explore boosting’s impact on 
 
 | Topic | Skills |
 | ------ | ------ |
-| [Slides](./01-slides/) | - Conceptual overview of boosting |
-| [Ensemble Methods: Boosting](./02-ensembles-boosting/) | - Walkthrough of boosting models using `scikit-learn`<br />- Bonus: Walkthrough of how to build AdaBoost from scratch in Python |
+| [Slides](https://github.com/ga-curriculum/ml-ensembles-boosting/blob/main/01-slides/Ensemble-Models-Boosting.pdf){:target="_blank"} | - Conceptual overview of boosting |
+| [Ensemble Methods: Boosting](https://github.com/ga-curriculum/ml-ensembles-boosting/tree/main/02-ensembles-boosting){:target="_blank"} | - Walkthrough of boosting models using `scikit-learn`<br />- Bonus: Walkthrough of how to build AdaBoost from scratch in Python |
 
 
 ## Prerequisites
